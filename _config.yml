@@ -2,7 +2,7 @@
 title:  welcome is my web site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  description: >-
+  
   **Soy [Tu Nombre], un apasionado ingeniero de software especializado en [Área de especialización].** Con una sólida base en [Tecnologías clave], he desarrollado soluciones innovadoras para [Problemas que has resuelto]. 
   
   En esta presentación, te llevaré a un recorrido por mis proyectos más destacados, como [Proyecto 1] y [Proyecto 2]. Descubrirás cómo he utilizado [Tecnologías específicas] para crear aplicaciones que [Beneficios de tus proyectos]. 
