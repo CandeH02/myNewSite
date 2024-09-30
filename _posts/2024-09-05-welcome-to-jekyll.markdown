@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll editador por cande!"
 date:   2024-09-05 22:35:19 -0500
 categories: jekyll update
 ---
